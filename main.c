@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 float (float a, floatb) {
   return a + b;
   }
