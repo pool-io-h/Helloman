@@ -1,3 +1,3 @@
-float (float a, floatb) {
-  return a + b;
+float subtraction (float a, floatb) {
+  return a - b;
   }
