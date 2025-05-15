@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-float (float a, floatb) {
+float addition (float a, floatb) {
   return a + b;
   }
 
