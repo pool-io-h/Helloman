@@ -1,5 +1,12 @@
 
+float add (float a, floatb) {
+  return a + b;
+  }
 
-float calculate (float a, floatb) {
+float subtract (float a, floatb) {
   return a - b;
   }
+
+int main () {
+
+}
