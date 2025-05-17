@@ -1,10 +1,12 @@
-#include <stdio.h>
 
-float calculate (float a, floatb) {
+float add (float a, floatb) {
   return a + b;
+  }
+
+float subtract (float a, floatb) {
+  return a - b;
   }
 
 int main () {
 
-  return 0;
 }
